@@ -17,7 +17,7 @@ cellLinks:
     cimage: media/demo04.jpg
 
 # Cells at the bottom of the page
-cellLinks:
+footerLinks:
   - cname: Server Map
     curl: map
     cimage: media/demo02.jpg
