@@ -30,7 +30,7 @@ discordChannelID: 790653635309994056
 # 
  siteNav:
    - name: Server Map
-     url: map
+     url: map.pinnaclesmp.com
      newtab: true
    - name: Screenshots
      url: screenshots
