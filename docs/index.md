@@ -10,21 +10,7 @@ cellLinks:
 
   - cname: Screenshots
     curl: screenshots
-    cimage: media/demo03.jpg
-
-  - cname: Donate
-    curl: donate
-    cimage: media/demo04.jpg
-
-# Cells at the bottom of the page
-footerLinks:
-  - cname: Server Map
-    curl: map
-    cimage: media/demo02.jpg
-
-  - cname: Screenshots
-    curl: screenshots
-    cimage: media/demo03.jpg
+    cimage: media/CoveredBridge1.png
 
   - cname: Donate
     curl: donate
