@@ -14,5 +14,5 @@ cellLinks:
 
   - cname: Donate
     curl: donate
-    cimage: media/demo04.jpg
+    cimage: media/2020-06-26_23.59.41.png
 ---
