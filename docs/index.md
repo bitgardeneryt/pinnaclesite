@@ -15,7 +15,6 @@ cellLinks:
   - cname: Donate
     curl: donate
     cimage: media/demo04.jpg
----
 
 # Cells at the bottom of the page
 cellLinks:
