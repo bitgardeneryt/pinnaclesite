@@ -34,6 +34,7 @@ Pinnacle SMP is a traditional, mostly vanilla Java Minecraft multiplayer server 
 # Rules
 
  - Generally be respectful of others.
+ - PvP is enabled but not allowed unless the other player agrees to it.
  - **Don't build within 300 blocks of spawn** (except for shop plots).
  - Don't hack or cheat in any way.
  - Don't steal from other players or destroy what others build.
