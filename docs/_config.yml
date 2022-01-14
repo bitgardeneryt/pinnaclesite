@@ -20,7 +20,7 @@ useBedrockForOnlineStatus: false
 # Discord information
 discordInvite: https://discord.gg/cBgEbC6dAK
 discordServerID: 790653635309994054
-discordChannelID: 790653635309994056
+discordChannelID: 929032207144722512
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
@@ -28,7 +28,7 @@ discordChannelID: 790653635309994056
 # #   url - The link it should go to (for example, if you have "maps.md" file, put "maps")
 # #   newtab - Whether link should open in new tab
 # 
-# siteNav:
+siteNav:
 #   - name: Server Map
 #     url: map
 #     newtab: true
